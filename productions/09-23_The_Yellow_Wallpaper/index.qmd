@@ -5,6 +5,7 @@ description: Lighting Designer and Programmer # Short description of the project
 ---
 
 *The Coronet Theatre, Notting Hill, September 2023*
+
 Directed by **Stephanie Mohr**
 
 # Images:

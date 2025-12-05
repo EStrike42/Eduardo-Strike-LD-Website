@@ -8,6 +8,10 @@ description: Lighting Designer and Programmer # Short description of the project
 
 # Images:
 ::: {layout-ncol=1}
+![](images/Coram_Boy_Meshak_Destroys_Piano.jpg)
+
+![](images/Coram_Boy_Meshak_with_destroyed_piano.jpg)
+
 ![](images/Coram_Boy_Cathedral_2.jpg)
 
 ![](images/Coram_Boy_Drawing_Room.jpg)
@@ -17,10 +21,6 @@ description: Lighting Designer and Programmer # Short description of the project
 ![](images/Coram_Boy_Forest.jpg)
 
 ![](images/Coram_Boy_Gaddarns_2.jpg)
-
-![](images/Coram_Boy_Meshak_Destroys_Piano.jpg)
-
-![](images/Coram_Boy_Meshak_with_destroyed_piano.jpg)
 
 ![](images/Coram_Boy_Waterside.jpg)
 :::
