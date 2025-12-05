@@ -2,13 +2,68 @@
 title: Productions
 ---
 
+## Come From Away (Nov 2025)
+
+::::: {.columns}
+::: {.col}
+Lighting Designer and Programmer, Kings College School.
+:::
+::: {.col}
+[Come From Away](11-25_Come_From_Away/)
+:::
+:::::
+
+## The Anatomy of Pain (August & October 2025)
+
+::::: {.columns}
+::: {.col}
+Lighting Designer and Programmer, TheSpace@Surgeon's Hall, Edinburgh Fringe, and The TramShed Theatre Company, London.
+:::
+::: {.col}
+[The Anatomy of Pain](25-08_The_Anatomy_Of_Pain/)
+:::
+:::::
+
 ## Beauty And The Beast (June 2025)
 
 ::::: {.columns}
 ::: {.col}
-Kings College Wimbledon production of Beauty and the Beast.
+Lighting Designer and Programmer, Kings College School.
 :::
 ::: {.col}
-[![](Beauty_And_The_Beast_(June2025)/images/B&B_Mob_Song.jpg)](Beauty_And_The_Beast_(June2025)/)
+[![](25-06_Beauty_And_The_Beast/images/B&B_Mob_Song.jpg)](Beauty_And_The_Beast_(June2025)/)
+:::
+:::::
+
+## Coram Boy (Nov 2024)
+
+::::: {.columns}
+::: {.col}
+Lighting Designer and Programmer, Kings College School.
+:::
+::: {.col}
+[![](24-11_Coram_Boy/images/Coram_Boy_Meshak_Destroys_Piano.jpg)](24-11_Coram_Boy/)
+:::
+:::::
+
+## Billy Elliot (Nov 2023)
+
+::::: {.columns}
+::: {.col}
+Lighting Designer and Programmer, Kings College School.
+:::
+::: {.col}
+:::
+:::::
+
+## The Yellow Wallpaper (Sep 2023)
+
+::::: {.columns}
+::: {.col}
+Lighting Designer and Programmer, The Coronet Theatre, Notting Hill.
+Directed by **Stephanie Mohr**
+:::
+::: {.col}
+[![](09-23_The_Yellow_Wallpaper/images/YW_Sitting_Before_Projection.jpg)](09-23_The_Yellow_Wallpaper/)
 :::
 :::::

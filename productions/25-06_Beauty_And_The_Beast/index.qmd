@@ -1,0 +1,11 @@
+---
+title: The Anatomy of Pain
+image: images/B&B_Mob_Song.jpg # A url to image here.
+description: Lighting Designer and Programmer # Short description of the project to be shown on overview page.
+---
+
+*TheSpace@Surgeon'sHall, Edinburgh Fringe, August 2025*
+
+# Images:
+::: {layout-ncol=1}
+:::

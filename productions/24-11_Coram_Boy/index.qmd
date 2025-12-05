@@ -1,0 +1,26 @@
+---
+title: Coram Boy (Nov 2024)
+image: images/Coram_Boy_Meshak_Destroys_Piano.jpg # A url to image here.
+description: Lighting Designer and Programmer # Short description of the project to be shown on overview page.
+---
+
+*Kings College School, Nov 2024*
+
+# Images:
+::: {layout-ncol=1}
+![](images/Coram_Boy_Cathedral_2.jpg)
+
+![](images/Coram_Boy_Drawing_Room.jpg)
+
+![](images/Coram_Boy_Forest_2.jpg)
+
+![](images/Coram_Boy_Forest.jpg)
+
+![](images/Coram_Boy_Gaddarns_2.jpg)
+
+![](images/Coram_Boy_Meshak_Destroys_Piano.jpg)
+
+![](images/Coram_Boy_Meshak_with_destroyed_piano.jpg)
+
+![](images/Coram_Boy_Waterside.jpg)
+:::

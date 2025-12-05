@@ -1,0 +1,20 @@
+color:
+  palette:
+    dark_blue: "#1E2557"
+    burgandy: "#ECEDF8"
+    light_text: "#8D8DCC"
+  
+  background: dark_blue
+  foreground: burgandy
+  primary: light_text
+
+typography:
+  fonts:
+    - family: Jura
+      source: google
+    - family: Open Sans
+      source: google
+  base: 
+    family: Open Sans
+  headings:
+    family: Jura
