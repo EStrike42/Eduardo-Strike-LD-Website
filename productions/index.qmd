@@ -62,9 +62,32 @@ Lighting Designer and Programmer, **Kings College School**.
 ::::: {.columns}
 ::: {.col}
 Lighting Designer and Programmer, **The Coronet Theatre**, Notting Hill.
+
 Directed by **Stephanie Mohr**
 :::
 ::: {.col}
 [![](23-09_The_Yellow_Wallpaper/images/YW_Sitting_Before_Projection.jpg)](23-09_The_Yellow_Wallpaper/)
+:::
+:::::
+
+## Bad Ladz (July 2023)
+
+::::: {.columns}
+::: {.col}
+Lighting Designer and Programmer, **New Wimbledon Theatre Studio**
+:::
+::: {.col}
+[Bad Ladz](23-07_Bad_Ladz/)
+:::
+:::::
+
+## Happy Hour (May 2023)
+
+::::: {.columns}
+::: {.col}
+Lighting Designer and Programmer, **Upstairs at the Gatehouse**
+:::
+::: {.col}
+[Happy Hour](23-05_Happy_Hour/)
 :::
 :::::
