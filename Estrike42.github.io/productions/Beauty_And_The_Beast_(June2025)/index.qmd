@@ -6,8 +6,6 @@ image: images/B&B_Mob_Song.jpg # A url to image here.
 description: Lighting Designer and Programmer for Kings College School's production of Beauty And The Beast # Short description of the project to be shown on overview page.
 ---
 
-TEST
-
 # Images:
 ::: {layout-ncol=1}
 ![](images/B&B_Mob_Song.jpg)
