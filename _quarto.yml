@@ -9,7 +9,8 @@ website:
         text: Home
       - href: productions/
         text: Productions
-      - about.qmd
+      - href: contact.qmd
+        text: Contact
 
 format:
   html:

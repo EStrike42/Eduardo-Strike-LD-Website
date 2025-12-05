@@ -1,6 +1,6 @@
 ---
 title: "Eduardo Strike"
-image: images/B&B_Mob_Song.jpg # replace with the link to your headshot
+image: images/POST_Coram_Boy_Headshot_2.jpg # replace with the link to your headshot
 about:
   template: jolla # see additional templates here https://quarto.org/docs/websites/website-about.html
   links:  # add links to your various social profiles

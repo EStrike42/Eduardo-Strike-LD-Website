@@ -65,6 +65,6 @@ Lighting Designer and Programmer, **The Coronet Theatre**, Notting Hill.
 Directed by **Stephanie Mohr**
 :::
 ::: {.col}
-[![](09-23_The_Yellow_Wallpaper/images/YW_Sitting_Before_Projection.jpg)](09-23_The_Yellow_Wallpaper/)
+[![](23-09_The_Yellow_Wallpaper/images/YW_Sitting_Before_Projection.jpg)](23-09_The_Yellow_Wallpaper/)
 :::
 :::::
