@@ -1,28 +1,11 @@
 ---
-title: Beauty And The Beast
+title: The Anatomy of Pain
 image: images/B&B_Mob_Song.jpg # A url to image here.
 description: Lighting Designer and Programmer # Short description of the project to be shown on overview page.
 ---
 
-*Kings College School, June 2025*
+*TheSpace@Surgeon'sHall, Edinburgh Fringe, August 2025*
 
 # Images:
 ::: {layout-ncol=1}
-![](images/B&B_Mob_Song.jpg)
-
-![](images/B&B_Beast_Stabbed.jpg)
-
-![](images/B&B_Fight.jpg)
-
-![](images/B&B_Transformation.jpg)
-
-![](images/B&B_Backdrop.jpg)
-
-![](images/B&B_Beam_Flyout.jpg)
-
-![](images/B&B_Preset_Zoomed_In.jpg)
-
-![](images/B&B_Preset_Zoomed_Out.jpg)
-
-![](images/B&B_Warm_Multigel.jpg)
 :::

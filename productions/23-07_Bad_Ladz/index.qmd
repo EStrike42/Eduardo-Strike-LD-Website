@@ -1,6 +1,6 @@
 ---
 title: Bad Ladz
-image: images/B&B_Mob_Song.jpg # A url to image here.
+image: images/BL_Raining_Money.jpg # A url to image here.
 description: Lighting Designer and Programmer # Short description of the project to be shown on overview page.
 ---
 
@@ -8,5 +8,28 @@ description: Lighting Designer and Programmer # Short description of the project
 
 # Images:
 ::: {layout-ncol=1}
+![](images/BL_Kneeling_On_Rug.jpg)
 
+![](images/BL_Two_Lit_Cold.jpg)
+
+![](images/BL_Lying_On_Floor.jpg)
+:::
+::: {layout-ncol=2}
+![](images/BL_Raining_Money.jpg)
+
+![](images/BL_Tied_On_Chair.jpg)
+
+![](images/BL_Chair_Nice_Floor.jpg)
+
+![](images/BL_Considering_Spoons.jpg)
+
+![](images/BL_Downstage_Crawling.jpg)
+
+![](images/BL_Downstage_Kneeling.jpg)
+
+![](images/BL_On_Chair_Lamp_In_Back.jpg)
+
+![](images/BL_On_Chair_With_Background.jpg)
+
+![](images/BL_On_Chair_With_Blurred_Foreground.jpg)
 :::
