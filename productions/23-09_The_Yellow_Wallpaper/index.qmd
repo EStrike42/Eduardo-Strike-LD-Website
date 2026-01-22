@@ -8,10 +8,34 @@ description: Lighting Designer and Programmer # Short description of the project
 
 Directed by **Stephanie Mohr**
 
-# Images:
+**Images:**
+
 ::: {layout-ncol=1}
 ![](images/YW_Against_White_Wall.jpg)
 
+![](images/YW_Flood_Uplighter_With_Projection.jpg)
+
+![](images/YW_Holding_Book.jpg)
+
+![](images/YW_Reaching_Cupped_Hands_Forwards.jpg)
+
+![](images/YW_Kneeling_Before_White_Wall.jpg)
+
+![](images/YW_Lying_On_Bed.jpg)
+
+![](images/YW_Sitting_Before_Projection.jpg)
+
+![](images/YW_Sitting_Proj_In_Background_2.jpg)
+
+![](images/YW_Sitting_Proj_In_Background.jpg)
+
+![](images/YW_Standing_In_Front_Of_Projection.jpg)
+
+![](images/YW_Standing_Within_Projection.jpg)
+
+![](images/YW_Yellow_Sidelit.jpg)
+:::
+::: {layout-ncol=2}
 ![](images/YW_Combing_Hair.jpg)
 
 ![](images/YW_Crouched_Against_White_Wall.jpg)
@@ -20,29 +44,7 @@ Directed by **Stephanie Mohr**
 
 ![](images/YW_Dancing_In_Main_Space.jpg)
 
-![](images/YW_Flood_Uplighter_With_Projection.jpg)
-
-![](images/YW_Holding_Book.jpg)
-
-![](images/YW_Kneeling_Before_White_Wall.jpg)
-
-![](images/YW_Lying_On_Bed.jpg)
-
 ![](images/YW_Lying_Proj_In_Background.jpg)
 
 ![](images/YW_Reaching_Above_Bed.jpg)
-
-![](images/YW_Reaching_Cupped_Hands_Forwards.jpg)
-
-![](images/YW_Sitting_Before_Projection.jpg)
-
-![](images/YW_Sitting_Proj_In_Background_2.jpg)
-
-![](images/YW_Sitting_Proj_In_Background_1.jpg)
-
-![](images/YW_Standing_In_Front_Of_Projection.jpg)
-
-![](images/YW_Standing_Within_Projection.jpg)
-
-![](images/YW_Yellow_Sidelit.jpg)
 :::

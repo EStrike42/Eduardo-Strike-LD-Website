@@ -6,7 +6,8 @@ description: Lighting Designer and Programmer # Short description of the project
 
 *New Wimbledon Theatre Studio, July 2023*
 
-# Images:
+**Images:**
+
 ::: {layout-ncol=1}
 ![](images/BL_Kneeling_On_Rug.jpg)
 

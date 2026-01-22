@@ -1,19 +1,22 @@
 ---
 title: Productions
+format:
+    html:
+        linkcolor: "#2F1919"
 ---
 
-## Come From Away (Nov 2025)
+## [**Come From Away (Nov 2025)**](25-11_Come_From_Away/)
 
 ::::: {.columns}
 ::: {.col}
 Lighting Designer and Programmer, **Kings College School**.
 :::
 ::: {.col}
-[Come From Away](11-25_Come_From_Away/)
+[Come From Away](25-11_Come_From_Away/)
 :::
 :::::
 
-## The Anatomy of Pain (August & October 2025)
+## [**The Anatomy of Pain (August & October 2025)**](25-08_The_Anatomy_Of_Pain/)
 
 ::::: {.columns}
 ::: {.col}
@@ -24,18 +27,18 @@ Lighting Designer and Programmer, **TheSpace@Surgeon's Hall**, Edinburgh Fringe,
 :::
 :::::
 
-## Beauty And The Beast (June 2025)
+## [**Beauty And The Beast (June 2025)**](25-06_Beauty_And_The_Beast/)
 
 ::::: {.columns}
 ::: {.col}
 Lighting Designer and Programmer, **Kings College School**.
 :::
 ::: {.col}
-[![](25-06_Beauty_And_The_Beast/images/B&B_Mob_Song.jpg)](Beauty_And_The_Beast_(June2025)/)
+[![](25-06_Beauty_And_The_Beast/images/B&B_Mob_Song.jpg)](25-06_Beauty_And_The_Beast/)
 :::
 :::::
 
-## Coram Boy (Nov 2024)
+## [**Coram Boy (Nov 2024)**](24-11_Coram_Boy/)
 
 ::::: {.columns}
 ::: {.col}
@@ -46,18 +49,18 @@ Lighting Designer and Programmer, **Kings College School**.
 :::
 :::::
 
-## Billy Elliot (Nov 2023)
+## [**Billy Elliot (Nov 2023)**](23-11_Billy_Elliot/)
 
 ::::: {.columns}
 ::: {.col}
 Lighting Designer and Programmer, **Kings College School**.
 :::
 ::: {.col}
-[![](23-11_Billy_Elliot/images/Company-of-Billy-Elliot-1-scaled.jpg)](23-11_Billy_Elliot/)
+[![](23-11_Billy_Elliot/images/Company-of-Billy-Elliot-1-scaled-blurred.jpg)](23-11_Billy_Elliot/)
 :::
 :::::
 
-## The Yellow Wallpaper (Sep 2023)
+## [**The Yellow Wallpaper (Sep 2023)**](23-09_The_Yellow_Wallpaper/)
 
 ::::: {.columns}
 ::: {.col}
@@ -70,18 +73,18 @@ Directed by **Stephanie Mohr**
 :::
 :::::
 
-## Bad Ladz (July 2023)
+## [**Bad Ladz (July 2023)**](23-07_Bad_Ladz/)
 
 ::::: {.columns}
 ::: {.col}
 Lighting Designer and Programmer, **New Wimbledon Theatre Studio**
 :::
 ::: {.col}
-[Bad Ladz](23-07_Bad_Ladz/)
+[![](23-07_Bad_Ladz/images/BL_Kneeling_On_Rug.jpg)](23-07_Bad_Ladz/)
 :::
 :::::
 
-## Happy Hour (May 2023)
+## [**Happy Hour (May 2023)**](23-05_Happy_Hour/)
 
 ::::: {.columns}
 ::: {.col}

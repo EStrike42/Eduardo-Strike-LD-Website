@@ -1,12 +1,21 @@
 ---
 title: "Eduardo Strike"
-image: images/POST_Coram_Boy_Headshot_2.jpg # replace with the link to your headshot
-about:
-  template: jolla # see additional templates here https://quarto.org/docs/websites/website-about.html
-  links:  # add links to your various social profiles
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/eduardo-strike/
+format:
+  html:
+    page-layout: full
+
 ---
 
 London-based freelance theatre lighting designer and programmer.
+
+::: {layout-ncol=2}
+![](images/YW_Flood_Uplighter_With_Projection.JPG)
+
+![](images/B&B_Mob_Song.jpg)
+
+![](images/Company-of-Billy-Elliot-1-scaled-blurred.jpg)
+
+![](images/Coram_Boy_Meshak_with_destroyed_piano.jpg)
+
+![](images/BL_Lying_On_Floor_Looking_Up.jpg)
+:::

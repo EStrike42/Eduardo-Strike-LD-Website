@@ -4,6 +4,8 @@ project:
 website:
   title: "Eduardo Strike"
   navbar:
+    search: false
+    title: false
     left:
       - href: index.qmd
         text: Home
@@ -12,8 +14,10 @@ website:
       - href: contact.qmd
         text: Contact
 
+
 format:
   html:
+    page-layout: full
     theme:
       - cosmo
       - brand

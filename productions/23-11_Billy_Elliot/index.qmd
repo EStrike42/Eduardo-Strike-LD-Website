@@ -6,8 +6,9 @@ description: Lighting Designer and Programmer # Short description of the project
 
 *Kings College School, June 2025*
 
-# Images:
+**Images:**
+
 ::: {layout-ncol=1}
-![](images/Company-of-Billy-Elliot-1-scaled.jpg)
+![](images/Company-of-Billy-Elliot-1-scaled-blurred.jpg)
 :::
 

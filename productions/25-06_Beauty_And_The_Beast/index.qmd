@@ -6,7 +6,8 @@ description: Lighting Designer and Programmer # Short description of the project
 
 *Kings College School, June 2025*
 
-# Images:
+**Images:**
+
 ::: {layout-ncol=1}
 ![](images/B&B_Mob_Song.jpg)
 

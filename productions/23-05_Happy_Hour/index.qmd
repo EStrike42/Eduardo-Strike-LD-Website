@@ -6,7 +6,8 @@ description: Lighting Designer and Programmer # Short description of the project
 
 *Upstairs at the Gatehouse, May 2023*
 
-# Images:
+**Images:**
+
 ::: {layout-ncol=1}
 
 :::

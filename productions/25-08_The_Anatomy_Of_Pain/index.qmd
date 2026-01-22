@@ -6,6 +6,7 @@ description: Lighting Designer and Programmer # Short description of the project
 
 *TheSpace@Surgeon'sHall, Edinburgh Fringe, August 2025*
 
-# Images:
+**Images:**
+
 ::: {layout-ncol=1}
 :::

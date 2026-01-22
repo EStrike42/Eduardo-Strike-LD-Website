@@ -1,12 +1,18 @@
 color:
   palette:
     dark_blue: "#1E2557"
-    burgandy: "#ECEDF8"
+    light_purple: "#ECEDF8"
     light_text: "#8D8DCC"
+    burgandy: "#B37070"
+    papyrus: "#F6EEEE"
+    dark_text: "#2F1919"
+    dark_link_text: "#6B3838"
+
   
-  background: dark_blue
-  foreground: burgandy
-  primary: light_text
+  background: "#F1F1F4"
+  foreground: "#202127"
+  primary: "#73758C"
+
 
 typography:
   fonts:
