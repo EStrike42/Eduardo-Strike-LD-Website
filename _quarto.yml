@@ -7,12 +7,16 @@ website:
     search: false
     title: false
     left:
-      - href: index.qmd
+      - href: landing/
         text: Home
+      - href: about/
+        text: About
       - href: productions/
-        text: Productions
-      - href: contact.qmd
-        text: Contact
+        text: Portfolio
+      - href: credits/
+        text: Past Work
+    right:
+      - text: "Contact - eduardo@eduardostrike.com"
 
 
 format:

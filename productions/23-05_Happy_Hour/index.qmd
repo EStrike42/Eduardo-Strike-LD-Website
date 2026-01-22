@@ -1,6 +1,6 @@
 ---
 title: Happy Hour
-image: images/B&B_Mob_Song.jpg # A url to image here.
+image: images/HH_George_On_Sofa.jpg # A url to image here.
 description: Lighting Designer and Programmer # Short description of the project to be shown on overview page.
 ---
 
@@ -8,6 +8,32 @@ description: Lighting Designer and Programmer # Short description of the project
 
 **Images:**
 
-::: {layout-ncol=1}
+::: {layout-ncol=2}
+![](images/HH_Both_on_Sofa.jpg)
 
+![](images/HH_Both_Passed_Out_Sofa.jpg)
+
+![](images/HH_George_On_Sofa.jpg)
+
+![](images/HH_Looking_At_Wine.jpg)
+
+![](images/HH_Silhouetted_Window.jpg)
+
+![](images/HH_Pale_Green.jpg)
+
+![](images/HH_Pink_Hug.jpg)
+
+![](images/HH_Running_Round_In_Orange.jpg)
+
+![](images/HH_Shushing.jpg)
+
+![](images/HH_On_Floor_Looking_Up.jpg)
+
+![](images/HH_With_Traffic_Cone.jpg)
+
+![](images/HH_Yellow_Depression.jpg)
+
+![](images/HH_Daughter_US.jpg)
+
+Photos by Ross Kernahan
 :::

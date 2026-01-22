@@ -10,7 +10,7 @@ Directed by **Stephanie Mohr**
 
 **Images:**
 
-::: {layout-ncol=1}
+::: {layout-ncol=2}
 ![](images/YW_Against_White_Wall.jpg)
 
 ![](images/YW_Flood_Uplighter_With_Projection.jpg)

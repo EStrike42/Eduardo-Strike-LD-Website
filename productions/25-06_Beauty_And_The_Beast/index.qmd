@@ -8,7 +8,7 @@ description: Lighting Designer and Programmer # Short description of the project
 
 **Images:**
 
-::: {layout-ncol=1}
+::: {layout-ncol=2}
 ![](images/B&B_Mob_Song.jpg)
 
 ![](images/B&B_Beast_Stabbed.jpg)

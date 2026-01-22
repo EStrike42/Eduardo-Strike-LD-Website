@@ -1,6 +1,6 @@
 ---
 title: The Anatomy of Pain
-image: images/B&B_Mob_Song.jpg # A url to image here.
+image: images/AOP_Tramshed_Blood_Background.JPG # A url to image here.
 description: Lighting Designer and Programmer # Short description of the project to be shown on overview page.
 ---
 
@@ -8,5 +8,30 @@ description: Lighting Designer and Programmer # Short description of the project
 
 **Images:**
 
-::: {layout-ncol=1}
+::: {layout-ncol=2}
+![](images/AOP_Ed_Anaesthetic.PNG)
+
+![](images/AOP_Ed_Anguished_Kneeling.PNG)
+
+![](images/AOP_Ed_Blue_Toplight.PNG)
+
+![](images/AOP_Ed_Isolated_Monologue.PNG)
+
+![](images/AOP_Ed_Low_Light_Hug.PNG)
+
+![](images/AOP_Ed_Sitting_and_Kneeling_Toplight.PNG)
+
+![](images/AOP_Ed_Surgery_2.PNG)
+
+![](images/AOP_Ed_Surgery.PNG)
+
+![](images/AOP_Tramshed_Blood_Background.JPG)
+
+![](images/AOP_Tramshed_Full_Stage_Abstract_Pattern.JPG)
+
+![](images/AOP_Tramshed_Full_Stage.JPG)
+
+![](images/AOP_Tramshed_Red_Background.JPG)
+
+![](images/AOP_Ed_Both_Together_Gentle.PNG)
 :::

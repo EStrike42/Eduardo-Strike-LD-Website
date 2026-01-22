@@ -8,7 +8,7 @@ description: Lighting Designer and Programmer # Short description of the project
 
 **Images:**
 
-::: {layout-ncol=1}
+::: {layout-ncol=2}
 ![](images/Coram_Boy_Meshak_Destroys_Piano.jpg)
 
 ![](images/Coram_Boy_Meshak_with_destroyed_piano.jpg)

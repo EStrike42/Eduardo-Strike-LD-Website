@@ -1,5 +1,0 @@
----
-title: "Contact"
----
-
-Email: **eduardo@eduardostrike.com**

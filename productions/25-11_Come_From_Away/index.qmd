@@ -1,5 +1,5 @@
 ---
-title: Beauty And The Beast
+title: Come From Away
 image: images/B&B_Mob_Song.jpg # A url to image here.
 description: Lighting Designer and Programmer # Short description of the project to be shown on overview page.
 ---
