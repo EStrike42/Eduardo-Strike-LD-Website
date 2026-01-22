@@ -2,7 +2,7 @@
 title: "Past Work"
 format:
     html:
-        linestretch: 0.8
+        linestretch: 1
 ---
 
 ## Lighting Design
